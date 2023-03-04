@@ -82,3 +82,14 @@ kubectl --namespace tekton-pipelines port-forward svc/tekton-dashboard 9097:9097
 
 
 
+
+
+References :
+
+How to run  Ingress on Minikube Mac vs Linux :
+https://stackoverflow.com/questions/70961901/ingress-with-minikube-working-differently-on-mac-vs-ubuntu-when-to-set-etc-host
+
+Tekton Documentation :
+https://tekton.dev/docs/concepts/overview/
+
+
