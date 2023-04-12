@@ -1,3 +1,7 @@
+IMPORTANT LINKS :
+codefactor : https://www.codefactor.io/dashboard
+
+
 Message from LORD OF THE PODS :
 
 Hello Pinions , 
